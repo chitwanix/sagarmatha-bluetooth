@@ -1,0 +1,11 @@
+[Desktop Entry]
+Icon=bluetooth
+Exec=sagarmatha-settings bluetooth
+Terminal=false
+Type=Application
+Categories=GTK;Settings;X-Sagarmatha-NetworkSettings;HardwareSettings;X-Sagarmatha-Settings-Panel;
+OnlyShowIn=X-Sagarmatha;
+StartupNotify=true
+X-Sagarmatha-Settings-Panel=bluetooth
+Name=Bluetooth
+Comment=Configure Bluetooth settings
