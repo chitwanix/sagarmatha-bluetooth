@@ -1,4 +1,1 @@
-sagarmatha-bluetooth
-====================
-
-Bluetooth support for sagarmatha (Gnome Bluetooth)
+GNOME BT support for Sagarmatha
